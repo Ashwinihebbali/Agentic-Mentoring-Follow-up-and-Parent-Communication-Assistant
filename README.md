@@ -1,4 +1,4 @@
-# 🎓 Agentic Mentoring Follow-up and Parent Communication Assistant.  
+# 🎓 Agentic Mentoring Follow-up and Parent Communication Assistant.     
 
 An AI-powered mentoring assistant built using Langflow that helps academic mentors identify students requiring immediate attention, generate professional parent communication messages, maintain interaction history, and schedule follow-up actions. 
 
